@@ -1,6 +1,6 @@
 CAD/Inventor/   Autodesk Inventor assembly
 CAD/STP/        STEP file export of entire assembly
 
-BeamcBench was designed in Autodesk Inventor. 
-Parts were printed on a Bambu Lab X1E 3D printer using Bambu Lab ABS-GF filament, Fine resolution
+BeamcBench was designed in Autodesk Inventor, exported using Pack And Go.
+Parts were printed on a Bambu Lab X1E 3D printer using Bambu Lab ABS-GF filament, fine (0.16mm) resolution.
 Note that parts (especially feature diameters) may need to be adjusted based on printer being used.
